@@ -85,7 +85,7 @@ export const projects = [
     name: "TehAI",
     description:
       "A full-stack AI chat application built with React, PHP, and MySQL, featuring authenticated conversations, persistent chat history, streaming AI responses, message status tracking, conversation management, and generation controls.",
-    href: "https://www.tehai.netlify.app",
+    href: "https://tehai.netlify.app",
     image: "/assets/projects/teh-ai.png",
     bgImage: "/assets/backgrounds/teh-ai-bg.png",
     frameworks: [
@@ -116,7 +116,7 @@ export const projects = [
     name: "El-Share",
     description:
       "An offline file-sharing web application designed for transferring files between devices connected to the same local network. The project combines a browser-based interface with PHP server-side functionality.",
-    href: "https://www.el-share.netlify.app",
+    href: "https://el-share.netlify.app",
     image: "/assets/projects/el-share.png",
     bgImage: "/assets/backgrounds/el-share-bg.png",
     frameworks: [
